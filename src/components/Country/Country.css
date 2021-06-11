@@ -1,0 +1,18 @@
+
+.container{
+    border: 1px solid cyan;
+    border-radius:5px;
+    box-shadow:5px 5px 8px lightblue;
+    width:300px;
+    height: auto;
+    margin: 10px;
+    padding: 5px;
+    
+}
+.container:hover{
+    background-color:aquamarine;
+}
+.btn:hover{
+    background-color:aqua;
+    box-shadow: 5px 5px 8px lightgray;
+}
